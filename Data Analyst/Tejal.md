@@ -575,33 +575,191 @@ After executing this roadmap, Tejal will have multiple paths:
 
 ---
 
-## 📚 Recommended Resources
+## 📚 Recommended Resources (Free First!)
 
-### Books
-- *Storytelling with Data* — Cole Nussbaumer Knaflic (must-read for visualization)
-- *Naked Statistics* — Charles Wheelan (statistics made accessible)
-- *Python for Data Analysis* — Wes McKinney (pandas creator)
-- *The Lean Startup* — Eric Ries (business context for analytics)
-- *Calling Bullshit* — Carl T. Bergstrom (critical thinking about data)
+---
 
-### YouTube Channels
-- **StatQuest with Josh Starmer** — statistics and ML explained beautifully
-- **Alex The Analyst** — SQL, Excel, Python, Power BI tutorials
-- **Luke Barousse** — data analyst career and SQL
-- **Keith Galli** — Python and pandas
+### 🎥 YouTube Channels — Phase-by-Phase Guide
 
-### Websites & Platforms
-- **Kaggle** — datasets, competitions, free courses
-- **StrataScratch** — SQL interview prep
-- **Mode Analytics** — SQL tutorials + practice
-- **DataCamp** — structured learning paths (paid but worth it)
-- **Towards Data Science** — read 2-3 articles/week
+#### SQL
+| Channel | What to Watch | Link |
+|---------|--------------|------|
+| **Alex The Analyst** | Full SQL Beginner to Advanced playlist | [youtube.com/@AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst) |
+| **Luke Barousse** | SQL for Data Analysts series | [youtube.com/@LukeBarousse](https://www.youtube.com/@LukeBarousse) |
+| **Socratica** | SQL tutorials — clean and concise | [youtube.com/@Socratica](https://www.youtube.com/@Socratica) |
+| **techTFQ** | Advanced SQL — window functions, CTEs | [youtube.com/@techTFQ](https://www.youtube.com/@techTFQ) |
 
-### Datasets to Practice On
-- Kaggle datasets (thousands available)
-- [data.gov.in](https://data.gov.in) — Indian government open data
-- [ourworldindata.org](https://ourworldindata.org) — global sustainability data
-- UCI Machine Learning Repository
+#### Python & Pandas
+| Channel | What to Watch | Link |
+|---------|--------------|------|
+| **Keith Galli** | Pandas complete tutorial, Python projects | [youtube.com/@KeithGalli](https://www.youtube.com/@KeithGalli) |
+| **Corey Schafer** | Python OOP, pandas, matplotlib — best structured content | [youtube.com/@coreyms](https://www.youtube.com/@coreyms) |
+| **Sentdex** | Python for data analysis and ML | [youtube.com/@sentdex](https://www.youtube.com/@sentdex) |
+| **Rob Mulla** | EDA walkthroughs and Kaggle notebooks | [youtube.com/@robmulla](https://www.youtube.com/@robmulla) |
+
+#### Statistics & Math
+| Channel | What to Watch | Link |
+|---------|--------------|------|
+| **StatQuest with Josh Starmer** | Statistics, ML, hypothesis testing — best channel ever | [youtube.com/@statquest](https://www.youtube.com/@statquest) |
+| **Khan Academy** | Statistics & Probability full course (free) | [youtube.com/@khanacademy](https://www.youtube.com/@khanacademy) |
+| **3Blue1Brown** | Linear algebra and math intuition visually | [youtube.com/@3blue1brown](https://www.youtube.com/@3blue1brown) |
+
+#### Power BI
+| Channel | What to Watch | Link |
+|---------|--------------|------|
+| **Guy in a Cube** | Power BI tutorials, DAX deep dives | [youtube.com/@GuyInACube](https://www.youtube.com/@GuyInACube) |
+| **Pragmatic Works** | Power BI fundamentals and advanced | [youtube.com/@PragmaticWorks](https://www.youtube.com/@PragmaticWorks) |
+| **SQLBI** | DAX — the deepest DAX content on YouTube | [youtube.com/@SQLBI](https://www.youtube.com/@SQLBI) |
+| **Avi Singh - PowerBIPro** | Power BI tips and tricks | [youtube.com/@PowerBIPro](https://www.youtube.com/@PowerBIPro) |
+
+#### Machine Learning
+| Channel | What to Watch | Link |
+|---------|--------------|------|
+| **StatQuest with Josh Starmer** | ML algorithms explained from scratch | [youtube.com/@statquest](https://www.youtube.com/@statquest) |
+| **Sentdex** | ML with scikit-learn hands-on | [youtube.com/@sentdex](https://www.youtube.com/@sentdex) |
+| **Krish Naik** | ML, DL, end-to-end projects (great for Indian context) | [youtube.com/@krishnaik06](https://www.youtube.com/@krishnaik06) |
+| **CampusX** | Hindi/English ML and data science — very detailed | [youtube.com/@campusx-official](https://www.youtube.com/@campusx-official) |
+| **Andrej Karpathy** | Deep learning fundamentals (advanced, Phase 3+) | [youtube.com/@AndrejKarpathy](https://www.youtube.com/@AndrejKarpathy) |
+
+#### Data Analytics Career & Projects
+| Channel | What to Watch | Link |
+|---------|--------------|------|
+| **Alex The Analyst** | Data analyst portfolio projects, resume tips | [youtube.com/@AlexTheAnalyst](https://www.youtube.com/@AlexTheAnalyst) |
+| **Luke Barousse** | Day in the life, tools, career advice | [youtube.com/@LukeBarousse](https://www.youtube.com/@LukeBarousse) |
+| **Thu Vu data analytics** | Real projects, career journey | [youtube.com/@Thuvu5](https://www.youtube.com/@Thuvu5) |
+| **Tina Huang** | Data science career, Kaggle tips | [youtube.com/@TinaHuang1](https://www.youtube.com/@TinaHuang1) |
+
+#### Cloud & GCP
+| Channel | What to Watch | Link |
+|---------|--------------|------|
+| **Google Cloud Tech** | Official GCP tutorials and BigQuery | [youtube.com/@googlecloudtech](https://www.youtube.com/@googlecloudtech) |
+| **Cloud With Raj** | GCP for beginners — Indian creator | [youtube.com/@CloudWithRaj](https://www.youtube.com/@CloudWithRaj) |
+| **freeCodeCamp** | AWS, GCP full courses — completely free | [youtube.com/@freecodecamp](https://www.youtube.com/@freecodecamp) |
+
+#### Git & GitHub
+| Channel | What to Watch | Link |
+|---------|--------------|------|
+| **Corey Schafer** | Git tutorials for beginners | [youtube.com/@coreyms](https://www.youtube.com/@coreyms) |
+| **The Coding Train** | Git and GitHub explained simply | [youtube.com/@TheCodingTrain](https://www.youtube.com/@TheCodingTrain) |
+
+---
+
+### 🌐 Free Websites & Platforms
+
+#### SQL Practice (All Free)
+| Platform | Best For | Link |
+|----------|---------|------|
+| **SQLZoo** | Interactive SQL exercises, beginner to advanced | [sqlzoo.net](https://sqlzoo.net) |
+| **Mode SQL Tutorial** | Real-world SQL with practice environment | [mode.com/sql-tutorial](https://mode.com/sql-tutorial/) |
+| **W3Schools SQL** | Quick SQL reference and try-it editor | [w3schools.com/sql](https://www.w3schools.com/sql/) |
+| **LeetCode (Database)** | SQL interview problems (filter by Easy/Medium) | [leetcode.com/problemset/database](https://leetcode.com/problemset/database/) |
+| **StrataScratch** | Real interview SQL questions from top companies | [stratascratch.com](https://www.stratascratch.com) |
+| **HackerRank SQL** | Structured SQL challenges with levels | [hackerrank.com/domains/sql](https://www.hackerrank.com/domains/sql) |
+| **pgexercises.com** | PostgreSQL-specific practice problems | [pgexercises.com](https://pgexercises.com) |
+
+#### Python Learning (Free)
+| Platform | Best For | Link |
+|----------|---------|------|
+| **freeCodeCamp** | Python for beginners full course | [freecodecamp.org](https://www.freecodecamp.org) |
+| **Python Official Docs** | Reference and tutorials | [docs.python.org/3/tutorial](https://docs.python.org/3/tutorial/) |
+| **Real Python** | Tutorials, articles, projects — very practical | [realpython.com](https://realpython.com) |
+| **Pandas Docs** | Official pandas documentation with examples | [pandas.pydata.org/docs](https://pandas.pydata.org/docs/) |
+| **W3Schools Python** | Quick reference for syntax | [w3schools.com/python](https://www.w3schools.com/python/) |
+
+#### Statistics (Free)
+| Platform | Best For | Link |
+|----------|---------|------|
+| **Khan Academy Statistics** | Full probability & statistics course, free | [khanacademy.org/math/statistics-probability](https://www.khanacademy.org/math/statistics-probability) |
+| **Seeing Theory** | Visual introduction to statistics — beautiful | [seeing-theory.brown.edu](https://seeing-theory.brown.edu) |
+| **OpenIntro Statistics** | Free textbook PDF + exercises | [openintro.org/book/os](https://www.openintro.org/book/os/) |
+
+#### Machine Learning (Free)
+| Platform | Best For | Link |
+|----------|---------|------|
+| **Kaggle Learn** | Free micro-courses: Python, ML, pandas, SQL | [kaggle.com/learn](https://www.kaggle.com/learn) |
+| **Google ML Crash Course** | Intro to ML by Google, completely free | [developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course) |
+| **Fast.ai** | Practical deep learning for coders (free) | [fast.ai](https://www.fast.ai) |
+| **scikit-learn Docs** | Best ML library documentation with examples | [scikit-learn.org/stable/user_guide](https://scikit-learn.org/stable/user_guide.html) |
+| **Distill.pub** | Research-quality ML explanations, visual | [distill.pub](https://distill.pub) |
+
+#### Power BI (Free)
+| Platform | Best For | Link |
+|----------|---------|------|
+| **Microsoft Learn — Power BI** | Official free learning path for PL-300 | [learn.microsoft.com/en-us/training/powerplatform/power-bi](https://learn.microsoft.com/en-us/training/browse/?products=power-bi) |
+| **SQLBI DAX Guide** | Complete DAX function reference, free | [dax.guide](https://dax.guide) |
+| **Power BI Community** | Forums, sample reports, ideas | [community.powerbi.com](https://community.powerbi.com) |
+
+#### Cloud & GCP (Free)
+| Platform | Best For | Link |
+|----------|---------|------|
+| **Google Cloud Skills Boost** | Free learning paths, some with free credits | [cloudskillsboost.google](https://cloudskillsboost.google) |
+| **BigQuery Sandbox** | Free tier — run queries on public datasets | [console.cloud.google.com/bigquery](https://console.cloud.google.com/bigquery) |
+| **AWS Skill Builder** | Free AWS training courses | [skillbuilder.aws](https://skillbuilder.aws) |
+
+#### Git & GitHub (Free)
+| Platform | Best For | Link |
+|----------|---------|------|
+| **GitHub Docs** | Official Git and GitHub guides | [docs.github.com](https://docs.github.com) |
+| **Learn Git Branching** | Interactive visual Git tutorial — very fun | [learngitbranching.js.org](https://learngitbranching.js.org) |
+| **Oh My Git!** | Card-based Git learning game | [ohmygit.org](https://ohmygit.org) |
+
+#### Reading & Articles (Free)
+| Platform | Best For | Link |
+|----------|---------|------|
+| **Towards Data Science** | Data science articles, tutorials, case studies | [towardsdatascience.com](https://towardsdatascience.com) |
+| **Medium (Data)** | Broad data + analytics articles | [medium.com/tag/data-science](https://medium.com/tag/data-science) |
+| **The Pudding** | Data journalism — inspiring visual storytelling | [pudding.cool](https://pudding.cool) |
+| **FlowingData** | Data visualization inspiration | [flowingdata.com](https://flowingdata.com) |
+| **Substack — Data newsletters** | Subscribe to: *Data Elixir*, *The Analytics Engineering Roundup* | [substack.com](https://substack.com) |
+
+#### Datasets to Practice On (All Free)
+| Source | What's Available | Link |
+|--------|----------------|------|
+| **Kaggle Datasets** | Thousands of curated datasets on every topic | [kaggle.com/datasets](https://www.kaggle.com/datasets) |
+| **data.gov.in** | Indian government open data — manufacturing, economy | [data.gov.in](https://data.gov.in) |
+| **Our World in Data** | Sustainability, climate, ESG datasets | [ourworldindata.org](https://ourworldindata.org) |
+| **UCI ML Repository** | Classic ML datasets | [archive.ics.uci.edu/ml](https://archive.ics.uci.edu/ml/index.php) |
+| **Google Dataset Search** | Search engine for datasets across the web | [datasetsearch.research.google.com](https://datasetsearch.research.google.com) |
+| **World Bank Open Data** | Economic and development data globally | [data.worldbank.org](https://data.worldbank.org) |
+| **BigQuery Public Datasets** | Real large-scale datasets in the cloud, free to query | [cloud.google.com/bigquery/public-data](https://cloud.google.com/bigquery/public-data) |
+
+---
+
+### 📖 Books (Free PDFs or Very Low Cost)
+| Book | Why Read It | Where to Get |
+|------|-------------|-------------|
+| *Storytelling with Data* — Cole Nussbaumer Knaflic | Best book on data visualization for analysts | Buy or borrow |
+| *Naked Statistics* — Charles Wheelan | Statistics made human and accessible | Buy or borrow |
+| *Python for Data Analysis* — Wes McKinney | Pandas bible by its creator | Buy or borrow |
+| *OpenIntro Statistics* | Free statistics textbook (PDF) | [openintro.org](https://www.openintro.org/book/os/) — **Free PDF** |
+| *The Elements of Statistical Learning* | Advanced stats/ML — classic reference | [web.stanford.edu/~hastie/ElemStatLearn](https://web.stanford.edu/~hastie/ElemStatLearn/) — **Free PDF** |
+| *Calling Bullshit* — Carl T. Bergstrom | Critical thinking with data | Buy or borrow |
+
+---
+
+### 🗓️ Suggested Weekly Learning Schedule by Phase
+
+#### Phase 1 Weekly Plan
+| Day | Platform | Activity |
+|-----|----------|----------|
+| Monday | SQLZoo / LeetCode | 2–3 SQL problems |
+| Tuesday | YouTube (Corey Schafer) | 1 Python tutorial video + practice |
+| Wednesday | Kaggle Learn | 1 Python/Pandas lesson |
+| Thursday | Khan Academy | 1 Statistics topic |
+| Friday | Mode Analytics | 1 SQL tutorial + exercise |
+| Saturday | Personal project | Apply week's skills on a dataset |
+| Sunday | LinkedIn | Write a post about what you learned |
+
+#### Phase 2 Weekly Plan
+| Day | Platform | Activity |
+|-----|----------|----------|
+| Monday | Microsoft Learn | 1 Power BI module |
+| Tuesday | YouTube (SQLBI) | 1 DAX video + replicate |
+| Wednesday | Kaggle Learn | ML micro-course lesson |
+| Thursday | Google Cloud Skills Boost | 1 BigQuery lab |
+| Friday | GitHub | Push code from the week |
+| Saturday | Personal project | Build on portfolio project |
+| Sunday | LinkedIn | Post a dashboard screenshot + insight |
 
 ---
 
